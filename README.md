@@ -19,7 +19,7 @@ This project demonstrates the implementation of REST APIs using the Spring Frame
 - **Java**
 - **Spring Framework**
 - **ORM and Hibernate**
-- **MySQL (or any other relational database)**
-- **Postman** (for testing APIs)
+- **MySQL**
+- **Postman**
 
 ---
