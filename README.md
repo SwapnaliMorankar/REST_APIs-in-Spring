@@ -17,15 +17,9 @@ This project demonstrates the implementation of REST APIs using the Spring Frame
 ## Technologies Used
 
 - **Java**
-- **Spring Boot**
-- **Spring Data JPA**
+- **Spring Framework**
+- **ORM and Hibernate**
 - **MySQL (or any other relational database)**
 - **Postman** (for testing APIs)
 
 ---
-
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/student-management-rest-api.git
